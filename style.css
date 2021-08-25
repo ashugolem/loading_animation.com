@@ -27,8 +27,8 @@ section{
 }
 section .loader{
     position: relative;
-    width: 350px;
-    height: 350px;
+    width: 35vw;
+    height: 35vw;
 }
 section .loader span{
     position: absolute;
